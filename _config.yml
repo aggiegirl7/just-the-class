@@ -16,7 +16,7 @@
 title: ECEN 426
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
-url: 'https://aggiegirl7.github.io/just-the-class/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://aggiegirl7.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -27,7 +27,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
  Bailey Works:
-    - 'https://aggiegirl7.github.io/just-the-class/'
+    - 'https://aggiegirl7.github.io/'
   
 footer_content:
 
