@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PLEASE WORK
+title: ECEN 426
 nav_exclude: true
 permalink: index.html
 seo:
