@@ -18,7 +18,7 @@ tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
 baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://bworks.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://aggiegirl7.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
  Bailey Works:
-    - 'https://bworks.info'
+    - 'https://aggiegirl7.github.io/'
   Just the Class on GitHub:
     - 'https://github.com/bworks/ECEN426'
 footer_content:
