@@ -159,27 +159,11 @@ Operational Details for Course in the Online Mode:
 
 
 
-Week	Topic	Lab and Projects due
-1	Introduction: Lock Picking	
-2	Hardware Trojans: The games begin	
-3	Crypto 1: Nuts and Bolts	
-4	Crypto 1: Nuts and Bolts	Lab 1A due
-5	Power-side channel attack: Hacking on a cloud	Final project proposal due
-6	Power-side channel attack: Hacking on a cloud	
-7	Secure hardware architectures: Hacking a Coffee Maker 	Lab 2 due
-8	(Buffer week)	Lab 1B due
-9	Crypto-2: (Hash function, TRNGs, Stream ciphers, MAC)	Lab 3 due
-10	Secure system-on-chip design principles: Capture the flag	Preliminary project report due
-11	Fuzzing	
-12	IP protection mechanisms	Lab 4 due
-13	IP protection mechanisms	
-14	PUFs 	Lab 5 due
-15	Final project  presentation and report due; Lab 1C due	
 *The course may also have invited speakers from companies and research organizations. In the past, we have had speakers from Intel and Qualcomm to share their state-of-the-art techniques.
 
  
 
-Optional Course Information Items
+# Optional Course Information Items
 None
 
  
@@ -187,12 +171,12 @@ None
 # University Policies
 This section outlines the university level policies. The TAMU Faculty Senate established the wording of these policies.
 
-[NOTE: Faculty members should not change the written statements. A faculty member may add separate paragraphs if additional information is needed.]
+[**NOTE:** *Faculty members should not change the written statements. A faculty member may add separate paragraphs if additional information is needed.]*
 
 # Attendance Policy
 The university views class attendance and participation as an individual student responsibility. Students are expected to attend class and to complete all assignments.
 
-Please refer to Student Rule 7 Links to an external site. in its entirety for information about excused absences, including definitions, and related documentation and timelines.
+Please refer to Student [Rule 7](https://student-rules.tamu.edu/rule07/) in its entirety for information about excused absences, including definitions, and related documentation and timelines.
 
  
 
