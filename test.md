@@ -261,17 +261,17 @@ Students can learn more about filing a report, accessing supportive resources, a
 # Statement on Mental Health and Wellness
 Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in healthy self-care by utilizing available resources and services on your campus.
 
-Texas A&M College Station
+**Texas A&M College Station**
 
-Students who need someone to talk to can contact Counseling & Psychological ServicesLinks to an external site. (CAPS) or call the TAMU HelplineLinks to an external site. (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org (Links to an external site.).
+Students who need someone to talk to can contact [Counseling & Psychological Services](https://caps.tamu.edu/) (CAPS) or call the [TAMU Helpline](https://caps.tamu.edu/helpline/)  (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at [suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/). 
 
-Texas A&M at Galveston
+**Texas A&M at Galveston**
 
-Students who need someone to talk to can call (409) 740-4736 from 8:00 a.m. to 5:00 p.m. weekdays or visit tamug.edu/counsel (Links to an external site.) for more information. For 24-hour emergency assistance during nights and weekends, contact the TAMUG Police Dept at (409) 740-4545. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at suicidepreventionlifeline.org (Links to an external site.).
+Students who need someone to talk to can call (409) 740-4736 from 8:00 a.m. to 5:00 p.m. weekdays or visit [tamug.edu/counsel](https://www.tamug.edu/counsel/Disabilities.html) for more information. For 24-hour emergency assistance during nights and weekends, contact the TAMUG Police Dept at (409) 740-4545. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at [suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/).
 
-Texas A&M at Qatar
+**Texas A&M at Qatar**
 
-Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are encouraged to visit the Health and WellnessLinks to an external site. website for more information.  
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are encouraged to visit the [Health and Wellness](https://www.qatar.tamu.edu/students/student-affairs/health-and-wellness) for more information.  
 
  
 
