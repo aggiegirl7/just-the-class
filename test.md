@@ -183,13 +183,13 @@ Please refer to Student [Rule 7](https://student-rules.tamu.edu/rule07/) in its 
 # Makeup Work Policy
 Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor.
 
-Please refer to Student Rule 7Links to an external site. in its entirety for information about makeup work, including definitions, and related documentation and timelines.
+Please refer to Student [Rule 7](https://student-rules.tamu.edu/rule07/) in its entirety for information about makeup work, including definitions, and related documentation and timelines.
 
-Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” (Student Rule 7, Section 7.4.1Links to an external site.).
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” ([Student Rule 7, Section 7.4.1](https://student-rules.tamu.edu/rule07/)).
 
-“The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” (Student Rule 7, Section 7.4.2Links to an external site.).
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” ([Student Rule 7, Section 7.4.2](https://student-rules.tamu.edu/rule07/)).
 
-Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See Student Rule 24Links to an external site.).
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. ([See Student Rule 24](https://student-rules.tamu.edu/rule24/)).
 
  
 
@@ -198,15 +198,15 @@ Students who request an excused absence are expected to uphold the Aggie Honor C
 
 “Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20Links to an external site.).
 
-Texas A&M at College Station
+**Texas A&M at College Station**
 
 You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.eduLinks to an external site..
 
-Texas A&M at Galveston
+**Texas A&M at Galveston**
 
 You can learn more about the Honor Council Rules and Procedures as well as your rights and responsibilities at tamug.edu/HonorSystem. (Links to an external site.)
 
-Texas A&M at Qatar
+**Texas A&M at Qatar**
 
 You can learn more about academic integrity and your rights and responsibilities at Texas A&M University at Qatar by visiting the Aggie Honor SystemLinks to an external site. website. 
 
