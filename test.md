@@ -231,29 +231,30 @@ Disability Services is located in the Engineering Building, room 318C or at +974
 # Title IX and Statement on Limits to Confidentiality
 Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender-based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.
 
-With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see University Rule 08.01.01.M1Links to an external site.):
+With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see [University Rule 08.01.01.M1](https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf):
 
-The incident is reasonably believed to be discrimination or harassment.
-The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.
+* The incident is reasonably believed to be discrimination or harassment.
+* The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University.
+
 Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, a person who is subjected to the alleged conduct will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.
 
-Texas A&M at College Station
+**Texas A&M at College Station**
 
-Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with Counseling and Psychological ServicesLinks to an external site. (CAPS).
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with [Counseling and Psychological Services](https://caps.tamu.edu/) (CAPS).
 
- Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpageLinks to an external site..
+ Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s [Title IX webpage](https://titleix.tamu.edu/).
 
-Texas A&M at Galveston
+**Texas A&M at Galveston**
 
-Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with the Counseling Office in the Seibel Student Center, or call (409)740-4587. For additional information, visit tamug.edu/counsel (Links to an external site.).
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with the Counseling Office in the Seibel Student Center, or call (409)740-4587. For additional information, visit [tamug.edu/counsel](https://www.tamug.edu/counsel/).
 
-Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the Galveston Campus’ Title IX webpage (Links to an external site.).
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the Galveston Campus’ [Title IX webpage](https://titleix.tamu.edu/).
 
-Texas A&M at Qatar
+**Texas A&M at Qatar**
 
-Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are encouraged to visit the Health and WellnessLinks to an external site. website for more information.
+Texas A&M University at Qatar students wishing to discuss concerns in a confidential setting are encouraged to visit the [Health and Wellness](https://www.qatar.tamu.edu/students/student-affairs/health-and-wellness).
 
-Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s Title IX webpageLinks to an external site..
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s [Title IX webpage](https://titleix.tamu.edu/).
 
  
 
