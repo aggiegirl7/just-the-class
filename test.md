@@ -70,14 +70,16 @@ Final grades in this course will be based on several lab assignments given throu
 
 
 
-The tentative grading policy is:
+*The tentative grading policy is:*
 
-Labs	45%
-Midterm project presentation & report	20%
-Final Project presentation & report	20%
-Scribing	10%
-Attendance	5%
- 
+| Assignment  | % |
+| ------------- | ------------- |
+| Labs  | 45%  |
+| Midterm project presentation & report  | 20%  |
+| Final Project presentation & report  | 20%  |
+| Scribing  | 10% |
+| Attendance  | 5%|
+
 
 # Grading scale:
 
