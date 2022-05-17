@@ -22,45 +22,28 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+        end: 12:20 PM
+        location:  ZACH 361 & ONLINE
+      
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Zoom
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+      - - name: Lecture
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 12:20 PM
+        location:  ZACH 361 & ONLINE
+     
   - name: Thursday
   - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 12:20 PM
+        location:  ZACH 361 & ONLINE
+     
 ---
