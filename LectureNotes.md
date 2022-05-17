@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LectureNotes
+title: Lecture Notes
 description: >-
     Course policies and information.
 ---
