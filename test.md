@@ -34,12 +34,12 @@ Office Hours: 4:00 pm – 5:00 pm on Mondays (Zoom meeting link will be shared l
  
 
 # Course Prerequisites
-Grade of C or better in ECEN 350; and/or instructor’s approval. This course contains labs that require the knowledge of using IC design tools, HDL (VHDL/Verilog) programming, basic knowledge of computer architecture, and proficiency in programming.
+*Grade of C or better in ECEN 350; and/or instructor’s approval. This course contains labs that require the knowledge of using IC design tools, HDL (VHDL/Verilog) programming, basic knowledge of computer architecture, and proficiency in programming.*
 
  
 
 # Special Course Designation
-ECEN 426 Distance Learning (Sect. 500)
+**ECEN 426 Distance Learning (Sect. 500)**
 
 There is one distance learning (DL) section of the course. DL students are responsible for all the same labs and exams as local 426 students. DL students will be graded the same as local 426 students. 
 
@@ -54,10 +54,10 @@ The instructor will contact DL students individually to make arrangements for th
  
 
 # Course Learning Outcomes
-Ability to design, analyze, and simulate cryptographic algorithms.
-Ability to perform side-channel attacks
-Ability to identify security bugs in an SoC
-Ability to design, analyze, and attack defense techniques in IC.
+* Ability to design, analyze, and simulate cryptographic algorithms.
+* Ability to perform side-channel attacks
+* Ability to identify security bugs in an SoC
+* Ability to design, analyze, and attack defense techniques in IC.
  
 
 # Textbook and/or Resource Materials
