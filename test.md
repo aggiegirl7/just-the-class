@@ -124,19 +124,32 @@ By default, every student earns 5% for attendance but for every missed class the
 
  
 
-# Operational Details for Course in the Online Mode:
+Operational Details for Course in the Online Mode:
 
-Students taking the course from the online mode of instruction are required to turn on cameras during class. The university’s new Bring Your Own Device policy requires that students have access to a webcam.
-Lectures will be delivered synchronously (during the scheduled lecture time slots) via Zoom. Lecture videos (recorded from Zoom) and lecture slides will be made available to the students.
-Students are strongly encouraged to attend the synchronous lectures and participate in the class discussions.
+1. Students taking the course from the online mode of instruction are required to turn on cameras during class. The university’s new Bring Your Own Device policy requires that students have access to a webcam.
+2. Lectures will be delivered synchronously (during the scheduled lecture time slots) via Zoom. Lecture videos (recorded from Zoom) and lecture slides will be made available to the students.
+3. Students are strongly encouraged to attend the synchronous lectures and participate in the class discussions.
  
 
 # Late Work Policy
-If the absence is excused, the instructor will provide the student an opportunity to make up any quiz, exam or other work that contributes to the final grade or provide a satisfactory alternative by a date agreed upon by the student and instructor.  If an instructor has a regularly scheduled make-up exam, students are expected to attend unless they have a university-approved excuse.  The make-up work must be completed within a timeframe not to exceed 30 calendar days from the last day of the initial absence.
+*If the absence is excused, the instructor will provide the student an opportunity to make up any quiz, exam or other work that contributes to the final grade or provide a satisfactory alternative by a date agreed upon by the student and instructor.  If an instructor has a regularly scheduled make-up exam, students are expected to attend unless they have a university-approved excuse.  The make-up work must be completed within a timeframe not to exceed 30 calendar days from the last day of the initial absence.*
 
  
 
 # Course Schedule
+
+
+| Week|Topic	 | Lab and Projects due | 
+| :---         |     :---:      |          ---: |
+| 1   | Introduction: Lock Picking	    |     |
+| 2    | Hardware Trojans: The games begin	    |      |
+| 3   | Crypto 1: Nuts and Bolts	    |     |
+| 4    | Crypto 1: Nuts and Bolts	    |    Lab 1A due  |
+| 5   |Power-side channel attack: Hacking on a cloud	    | Final project proposal due    |
+| 6    | Power-side channel attack: Hacking on a cloud	    |    |
+
+
+
 Week	Topic	Lab and Projects due
 1	Introduction: Lock Picking	
 2	Hardware Trojans: The games begin	
