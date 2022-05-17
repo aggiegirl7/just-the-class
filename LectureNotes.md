@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## About [hello](lecture1.md)
+## [hello](lecture1.md)
 
 yo yo
 
