@@ -196,36 +196,35 @@ Students who request an excused absence are expected to uphold the Aggie Honor C
 # Academic Integrity Statement and Policy
 “An Aggie does not lie, cheat or steal, or tolerate those who do.”
 
-“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” (Section 20.1.2.3, Student Rule 20Links to an external site.).
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” ([Section 20.1.2.3, Student Rule 20](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules)).
 
 **Texas A&M at College Station**
 
-You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at aggiehonor.tamu.eduLinks to an external site..
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](https://aggiehonor.tamu.edu/).
 
 **Texas A&M at Galveston**
 
-You can learn more about the Honor Council Rules and Procedures as well as your rights and responsibilities at tamug.edu/HonorSystem. (Links to an external site.)
+You can learn more about the Honor Council Rules and Procedures as well as your rights and responsibilities at [tamug.edu/HonorSystem](https://www.tamug.edu/HonorSystem/). 
 
 **Texas A&M at Qatar**
 
-You can learn more about academic integrity and your rights and responsibilities at Texas A&M University at Qatar by visiting the Aggie Honor SystemLinks to an external site. website. 
+You can learn more about academic integrity and your rights and responsibilities at Texas A&M University at Qatar by visiting the [Aggie Honor System](https://www.qatar.tamu.edu/students/academic-services/aggie-honor-system).
 
  
 
 # Americans with Disabilities Act (ADA) Policy
 Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources office on your campus (resources listed below). Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.
 
-Texas A&M at College Station
+**Texas A&M at College Station**
 
-Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit disability.tamu.eduLinks to an external site..
+Disability Resources is located in the Student Services Building or at (979) 845-1637 or visit [disability.tamu.edu](https://disability.tamu.edu/).
 
 Texas A&M at Galveston
 
-Disability Resources is located in the Student Services Building or at (409) 740-4587 or visit tamug.edu/counsel/Disabilities (Links to an external site.).
-
+Disability Resources is located in the Student Services Building or at (409) 740-4587 or visit [tamug.edu/counsel/Disabilities](https://www.tamug.edu/counsel/Disabilities.html). 
 Texas A&M at Qatar
 
-Disability Services is located in the Engineering Building, room 318C or at +974.4423.0316 or visit https://www.qatar.tamu.edu/students/student-affairs/disability-services.Links to an external site.
+Disability Services is located in the Engineering Building, room 318C or at +974.4423.0316 or visit [https://www.qatar.tamu.edu/students/student-affairs/disability-services](https://www.qatar.tamu.edu/students/student-affairs/disability-services).
 
  
 
