@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
+name: Hao Guo
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: guohao2019@tamu.edu
+website: https://seth.engr.tamu.edu/people/hao-guo/
+photo: hao.jpg
 ---
 
-I like teaching Computer Science!
+
