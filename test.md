@@ -66,7 +66,7 @@ There is no recommended text book for this course. All relevant notes and materi
  
 
 # Grading Policy
-Final grades in this course will be based on several lab assignments given throughout the semester, class participation, and a final project. Scribing and projects can be done in a group of no more than 3 students. This course has no midterms and finals.
+Final grades in this course will be based on several lab assignments given throughout the semester, class participation, and a final project. Scribing and projects can be done in a group of no more than 3 students. **This course has no midterms and finals.**
 
 
 
@@ -81,42 +81,42 @@ Final grades in this course will be based on several lab assignments given throu
 | Attendance  | 5%|
 
 
-# Grading scale:
+**Grading scale:**
 
  
 
-A 90–100% 
+A *90–100%* 
 
-B 80–89.99%
+B *80–89.99%*
 
-C 70–79.99%
+C *70–79.99%*
 
-D 60–69.99%
+D *60–69.99%*
 
-F 0–59.99%
+F *0–59.99%*
 
  
 
 # Labs
-AI vs Humans: Hardware trojan detection
-Power side-channel attack on AES
-Hacking a coffee-maker
-SoC security analysis
-Machine learning in split manufacturing
+1. AI vs Humans: Hardware trojan detection
+2. Power side-channel attack on AES
+3. Hacking a coffee-maker
+4. SoC security analysis
+5. Machine learning in split manufacturing
  
 
 # Projects
-Logic locking of processors
-Identifying hidden instructions in processors
-Cache side-channel attack
-Malware-detection using Hardware Performance Counters (HPCs) 
-Temporal thermal covert channels in FPGAs 
-Remote power side-channel attacks on FPGAs 
-Dolphin attack
-Flash forensics
-Attacking neural networks on FPGAs
-Attacks on logic locking
-Fuzzing processors for security bugs
+1. Logic locking of processors
+2. Identifying hidden instructions in processors
+3. Cache side-channel attack
+4. Malware-detection using Hardware Performance Counters (HPCs) 
+5. Temporal thermal covert channels in FPGAs 
+6. Remote power side-channel attacks on FPGAs 
+7. Dolphin attack
+8. Flash forensics
+9. Attacking neural networks on FPGAs
+10. Attacks on logic locking
+11. Fuzzing processors for security bugs
  
 
 # Attendance
