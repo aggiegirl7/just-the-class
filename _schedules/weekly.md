@@ -25,7 +25,6 @@ schedule:
         start: 11:30 AM
         end: 12:20 PM
         location:  ZACH 361 & ONLINE
-      
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
@@ -33,11 +32,10 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
-      - - name: Lecture
+      - name: Lecture
         start: 11:30 AM
         end: 12:20 PM
         location:  ZACH 361 & ONLINE
-     
   - name: Thursday
   - name: Friday
     events:
@@ -45,5 +43,4 @@ schedule:
         start: 11:30 AM
         end: 12:20 PM
         location:  ZACH 361 & ONLINE
-     
 ---
