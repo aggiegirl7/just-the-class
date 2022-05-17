@@ -147,6 +147,15 @@ Operational Details for Course in the Online Mode:
 | 4    | Crypto 1: Nuts and Bolts	    |    Lab 1A due  |
 | 5   |Power-side channel attack: Hacking on a cloud	    | Final project proposal due    |
 | 6    | Power-side channel attack: Hacking on a cloud	    |    |
+| 7   |Secure hardware architectures: Hacking a Coffee Maker 	    | Lab 2 due   |
+| 8    | (Buffer week)    |  Lab 1B due  |
+| 9   |Crypto-2: (Hash function, TRNGs, Stream ciphers, MAC)	    | Lab 3 due  |
+| 10    |Secure system-on-chip design principles: Capture the flag   | Preliminary project report due  |
+| 11   |Fuzzing		    |   |
+| 12    |IP protection mechanisms  |Lab 4 due  |
+| 13   |IP protection mechanisms			    |   |
+| 14    |PUFs 	  |Lab 5 due  |
+| 15    |Final project  presentation and report due	  |Lab 1C due	 |
 
 
 
