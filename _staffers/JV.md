@@ -1,11 +1,8 @@
 ---
-name: Jeyavijayan (JV) Rajendran 
+name: Kevin Lin
 role: Instructor
-email: jv.rajendran@tamu.edu 
-Office: WEB 334J
-Website: [Click Here](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
-photo: JV.jpg
+email: me@example.com
+website: https://kevinl.info
+photo: kevin.jpg
 ---
-
-Hello! This is a test.
 
