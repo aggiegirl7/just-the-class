@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
+name: Bailey Works 
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: baileyworks@tamu.edu
+
+photo: JV.jpg
 ---
 
-I like teaching Computer Science!
+I'm a grad!
