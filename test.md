@@ -8,10 +8,8 @@ description: >-
 # Syllabus
 
 
-# Course Information
- 
+## Course Information
 
-Course Information
 Course Number: ECEN 426 
 Course Title: Security of Embedded Systems 
 Section: 500/700 
