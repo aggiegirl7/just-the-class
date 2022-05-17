@@ -10,26 +10,26 @@ description: >-
 
 ## Course Information
 
-Course Number: ECEN 426 
-Course Title: Security of Embedded Systems 
-Section: 500/700 
-Time: MWF 11:30 am – 12:20 pm 
-Location: ZACH 361 & ONLINE 
-Credit Hours: 3
+Course Number: ECEN 426 <br/>
+Course Title: Security of Embedded Systems <br/>
+Section: 500/700 <br/>
+Time: MWF 11:30 am – 12:20 pm <br/>
+Location: ZACH 361 & ONLINE <br/>
+Credit Hours: 3 <br/>
 
  
 
 # Instructor Details
-Instructor: Jeyavijayan (JV) Rajendran 
-Office: WEB 334J 
-Phone: (979) 458-7851 
-E-Mail: jv.rajendran@tamu.edu 
-Office Hours: 4:00 pm – 5:00 pm on Mondays (Zoom meeting link will be shared later)
+Instructor: Jeyavijayan (JV) Rajendran  
+Office: WEB 334J  
+Phone: (979) 458-7851  
+E-Mail: jv.rajendran@tamu.edu  
+Office Hours: 4:00 pm – 5:00 pm on Mondays (Zoom meeting link will be shared later) 
 
  
 
 # Course Description
-(i) Cryptography and cryptographic algorithms such as AES, stream ciphers; (ii) Different types of side-channel attacks and countermeasures; (iii) Supply-chain vulnerabilities – hardware Trojans, IP piracy, and reverse engineering; (iv) Security modules for system-on-chip; and (v) Physical unclonable functions.
+*(i) Cryptography and cryptographic algorithms such as AES, stream ciphers; (ii) Different types of side-channel attacks and countermeasures; (iii) Supply-chain vulnerabilities – hardware Trojans, IP piracy, and reverse engineering; (iv) Security modules for system-on-chip; and (v) Physical unclonable functions.*
 
  
 
