@@ -276,7 +276,7 @@ Texas A&M University at Qatar students wishing to discuss concerns in a confiden
  
 
 # Campus Specific Policies
-**Texas A&M at Galveston
+**Texas A&M at Galveston**
 
 Classroom Access and Inclusion Statement**
 
