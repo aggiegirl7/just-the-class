@@ -37,4 +37,6 @@ This trojan leverages peripheral devices as the path of attack. The class exampl
 
 # Figures
 
+![Image 1](/just-the-class/assets/1.png)
+
 
