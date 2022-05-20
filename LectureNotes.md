@@ -15,10 +15,10 @@ description: >-
 {:toc}
 
 ---
+## [Hardware Trojans- Lecture 2](lecture2.pdf)
+## [Hardware Trojans- Lecture 6](lecture6.pdf)
 
-## [Hardware Trojans](lecture6.pdf)
 
-yo yo
 
 
 ## Lecture
