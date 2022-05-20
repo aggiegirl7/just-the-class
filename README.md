@@ -16,6 +16,6 @@ This is your go to site for the course with all the information you need includi
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - a weekly [schedule](schedule.md)
-- and lecture notes [lecture notes](LectureNotes.md)
+- and [lecture notes](LectureNotes.md)
 
 
