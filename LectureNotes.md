@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## [Hardware Trojans](/pdfs/lecture6.pdf)
+## [Hardware Trojans](lecture6.pdf)
 
 yo yo
 
