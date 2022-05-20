@@ -18,6 +18,9 @@ description: >-
 ## [Hardware Trojans- Lecture 2](lecture2.pdf)
 Covers the basics.
 
+## [Hardware Trojans- Lecture 2 (Part 2)](lecture2p2.pdf)
+
+
 ## [Hardware Trojans- Lecture 6](lecture6.pdf)
 Trojan Insertion and examples.
 
