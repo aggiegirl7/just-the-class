@@ -19,6 +19,7 @@ description: >-
 Covers the basics.
 
 ## [Hardware Trojans- Lecture 2 (Part 2)](lecture2p2.pdf)
+Combinational Trojans, Sequential Trojans, Trojan Detection. 
 
 
 ## [Hardware Trojans- Lecture 6](lecture6.pdf)
