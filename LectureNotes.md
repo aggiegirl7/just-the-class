@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## [Hardware Trojans](just-the-class/_layouts/lecture1.md)
+## [Hardware Trojans](/_layouts/lecture1.md)
 
 yo yo
 
