@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## [hello](lecture1.md)
+## [hello](_layouts/lecture1.md)
 
 yo yo
 
