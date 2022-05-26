@@ -51,4 +51,22 @@
      - typically used to read-out memory contents of the device without probing
      - goal is to induce faults using x-rays, electromagnetic fields, light, sound (!) 
      - may not need expensive equipment
-     - but relatively more effort than invasive because finding the right location to attack takes effort  
+     - but relatively more effort than invasive because finding the right location to attack takes effort 
+
+* **Non-Invasive Attacks**
+     - only directly accessible interfaces are touched
+     - no permanent alteration to the device -> no evidence of an attack
+     - requires relatively inexpensive equipment
+     - three major classes  
+          1. Power (This class!)
+          2. Timing
+          3. EM
+
+## Power Analysis Attacks 
+     - started in 1999 (check out Kocher's famous paper)
+     - one of the most famous attacks
+     - companies have specific positions
+     
+ *Power analysis attacks exploits the fact that instantaenous power depends upon the data being processed and operation being performed*
+ 
+ 
