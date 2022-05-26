@@ -21,5 +21,13 @@
 
 ## Some Thoughts
 * Crypto devices are hardware that store keys and perfom crypto operations  
-* Security of thystem sexurity of cyrpto algorithm  
+* Security of system security of cyrpto algorithm  
   - one needs to consider the security of crypto devices 
+* Attackers are going to steal the key in an unauthorized way.
+* Security of a crypto device should not reply on the secrecy of the implementation  
+-> *Security through obscurity*
+
+## Attacks on cyrpto devices- categorization 
+* **Passive attacks**
+   - operated largely or entirely within the specification
+   - secret key is revealed by observing physical properties (eg. power consumption, timing)
