@@ -69,4 +69,4 @@
      
  *Power analysis attacks exploits the fact that instantaenous power depends upon the data being processed and operation being performed*
  
- 
+ ![Book logo](/assets/images/power1.png)
