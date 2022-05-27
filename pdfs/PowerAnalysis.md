@@ -70,3 +70,19 @@
  *Power analysis attacks exploits the fact that instantaenous power depends upon the data being processed and operation being performed*
  
  ![Book logo](/assets/images/power1.png)
+ 
+ - μc is executing AES (software version)
+ - encrypts plaintext from PC and send back the ciphertext
+ - 1 Ω resistor to measure the current (through the voltage drop)
+ 
+  ![Book logo](/assets/images/power2.png)
+  
+  - First .35 ms, quite uniform  
+              -> μc is waiting for plaintext  
+  - After getting plaintest 9 fullround AES is performed  
+               -> each round is approximately .4 ms  
+               -> notice the negative peak  
+   - 10 round is shortened
+   - 4.1 ms powertrace becomes uniform 
+         
+          
