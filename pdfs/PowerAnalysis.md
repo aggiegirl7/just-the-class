@@ -83,6 +83,22 @@
                -> each round is approximately .4 ms  
                -> notice the negative peak  
    - 10 round is shortened
-   - 4.1 ms powertrace becomes uniform 
-         
+   - 4.1 ms powertrace becomes uniform  
+
+![power3](https://user-images.githubusercontent.com/92998559/170603351-d3e03b7b-2a83-47c3-aa34-b501982f5cbb.png)
+
+ Power consumption (zoomed view)
+ 
+ - Power trace in 6 clock cycles
+ - Each peak -> 1 clock cycle
+ - Peaks are different  
+          -> depends on operation  
+          -> depends on data  
+          
+  **Simple Power Analysis (SPA)**  
+  -> one powertrace is good enough to leak the secret 
+  
+ 
+![power4](https://user-images.githubusercontent.com/92998559/170603627-8e49a9e6-975a-41fd-908c-a02bbb2b34e9.png)
+
           
