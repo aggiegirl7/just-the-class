@@ -101,4 +101,22 @@
  
 ![power4](https://user-images.githubusercontent.com/92998559/170603627-8e49a9e6-975a-41fd-908c-a02bbb2b34e9.png)
 
+- Peaks reveal the moments of time  
+                              -> depends on the data   
+                              -> depends on the operation  
+- Highest peak is at 132 μs  
+          -> this is when the byte containing the MSB is loaded  
+- Power for d = 0 and d = 1 are almost the same except for 3 clock cycles  
+                              -> That's the moment of interest  
+                              -> This is whe d or data related to d is processed  
+    *Can we exploit this? -> power analysis*   
+    
+    **Example with key:**
+    - Plaintext (p) is first XORed with roundkey (RO); let's say Ro = k  
+    - Substitution box is then performed  
+    - Power consumption at some point  
+     
+    ![power5](https://user-images.githubusercontent.com/92998559/170604280-39b643c1-e278-43f8-83b4-a3c7a50991ab.png)
+
+
           
